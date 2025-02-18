@@ -2,7 +2,7 @@
 
 <h1>Una herramienta de línea de comandos para jugadores y Dungeon Masters de Dungeons & Dragons 5e. </h1>
 
-<p>Se trata de una aplicación sencilla con interfaz gráfica CLI (Command Line Interface) para poder ejecutar tareas pequeñas y que son comunes entre las diferentes mesas de todo el mundo. ¡Todo está pensado para que los jugadores puedan gestionar bien las sesiones de este maravilloso juego de rol!</p>
+<p>Se trata de una aplicación sencilla, concretamente un bot de Discord para poder ejecutar tareas pequeñas y que son comunes entre las diferentes mesas de todo el mundo. ¡Todo está pensado para que los jugadores puedan gestionar bien las sesiones de este maravilloso juego de rol!</p>
 
 ---
 Toda la información asociada a los datos que se manejan en esta aplicación pertenecen al conjunto del SRD 5.1 liberado por la compañía <i>Wizards of the Coast™</i>. Bajo ningún concepto esta aplicación se acoge a diferentes acciones con ánimo de lucro. Todos los derechos reservados.
